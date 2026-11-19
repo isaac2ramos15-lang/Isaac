@@ -1,0 +1,8 @@
+{
+  "name": "RUTA CATRACHA",
+  "description": "Videojuego 3D endless runner ambientado en Tegucigalpa, Honduras. Creado por Isaac Ramos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
